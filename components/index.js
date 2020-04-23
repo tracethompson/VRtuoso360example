@@ -1,2 +1,2 @@
-export { default as Search360 } from './Search360'
-export { default as SearchBody } from './SearchBody'
+export { default as Search360 } from './search360'
+export { default as SearchBody } from './searchBody'
