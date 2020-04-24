@@ -117,7 +117,7 @@ const SearchBody = ({handleSubmit, handleUpdate, query, isOnline, setIsOpen, ima
       <style jsx>{`
         .search__body {
           top: 100px;
-          width: calc(100vw * .5);
+          width: calc(100vw * .7);
           min-width: 400px;
         }
         .iframe__wrapper {
